@@ -34,7 +34,7 @@ h1 {
 }
 
 .color1 {
-  background-color: red;
+  background-color: purple;
 }
 
 .color2 {
@@ -43,6 +43,18 @@ h1 {
 
 .color3 {
   background-color: yellow;
+}
+
+.color4 {
+  background-color: yellow;
+}
+
+.color5 {
+  background-color: red;
+}
+
+.color6 {
+  background-color: red;
 }
 
 
